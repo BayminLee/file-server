@@ -8,6 +8,7 @@ minio:
   domain: 
 ```
 ```
+
 打开浏览器访问api文档
 http://localhost:8080/doc.html 或者http://localhost:8080/swagger-ui.html
 ```
